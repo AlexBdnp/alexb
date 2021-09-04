@@ -42,6 +42,8 @@ class PostController extends Controller
       // dd($request->cookie('language'));
       // dd(FacadesRoute::current());
       // dd(Category::find(2)->posts);
-      $this->line('asdf;sdfljk');
+      // dump(request()->url());
+      // dump(request()->fullUrl());
+      // dump(request()->getBaseUrl());
     }
 }
