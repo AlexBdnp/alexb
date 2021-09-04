@@ -27,9 +27,9 @@
         </ul>
         <div class="w-full mt-6 mb-2 font-bold">Feel free to address me:</div>
         <div class="">
-          <a href="https://join.skype.com/invite/pDFTxPHS6kvo" class="flex mb-2">
+          <a href="https://join.skype.com/invite/FTvlrrgWJedd" class="flex mb-2">
             <img src="https://www.vectorico.com/wp-content/uploads/2018/02/Skype-Logo-300x300.png" class="w-6">
-            <span class="ml-2">live:alexey.babanskyi</span>
+            <span class="ml-2">coder95@i.ua</span>
           </a>
           <a href="mailto:name@email.com" class="flex">
             <img class="w-6" src="https://image.flaticon.com/icons/png/512/561/561127.png">
