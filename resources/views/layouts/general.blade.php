@@ -20,7 +20,7 @@
     </head>
     <body class="font-sans">
       <div class="border-b grid grid-cols-1 sm:grid-cols-10">
-        <div class="sm:col-span-3 p-2 flex justify-center items-center " style="font-size: 1.4rem"><a href="/">Blog about PHP</a></div>
+        <div class="sm:col-span-3 p-2 flex justify-center items-center " style="font-size: 1.4rem"><a href="/">Personal blog about PHP</a></div>
         <div class="col-span-1 sm:col-start-4 sm:col-span-7 flex flex-wrap w-full justify-around text-xl text-cyan-800 font-sans p-2">
           <a href="{{ config('APP_URL') }}/laravel" class="px-4 py-2 hover:bg-green-600 hover:text-white">Laravel</a>
           <a href="{{ config('APP_URL') }}/opencart" class="px-4 py-2 hover:bg-green-600 hover:text-white">Opencart</a>

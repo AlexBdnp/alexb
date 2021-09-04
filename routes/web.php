@@ -54,7 +54,7 @@ Route::get('/{category:slug}', function(Category $category, Request $request) {
   // dump($category->posts);
   // dd($category->posts);
   return view('posts', [
-    'posts' => $category->posts->where('lang', '=', $request->cookie('language', 'en')),
+    'posts' => $category->posts->where('lang', '=', $request->cookie('language', 'en'))->sortByDesc('created_at'),
     'title' => $category->name
   ]);
 });

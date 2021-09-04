@@ -31,7 +31,7 @@
             <img src="https://www.vectorico.com/wp-content/uploads/2018/02/Skype-Logo-300x300.png" class="w-6">
             <span class="ml-2">coder95@i.ua</span>
           </a>
-          <a href="coder95@i.ua" class="flex">
+          <a href="mailto:coder95@i.ua" class="flex">
             <img class="w-6" src="https://image.flaticon.com/icons/png/512/561/561127.png">
             <span class="ml-2">coder95@i.ua</span>
           </a>
